@@ -27,7 +27,7 @@ class Student
   end
 
   def save
-    
+
   end
 
   def self.create
