@@ -32,6 +32,8 @@ class Student
       VALUES (?, ?)
     SQL
 
+    DB[:conn].execute(sql)
+
   end
 
   def self.create
