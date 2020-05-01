@@ -42,6 +42,4 @@ class Student
   def update
   end
 
-
-
 end
